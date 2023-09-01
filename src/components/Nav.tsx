@@ -1,5 +1,3 @@
-import React from "react";
-
 import Logo from "./Logo";
 import PostButton from "./PostButton";
 import ClearButton from "./ClearButton";
