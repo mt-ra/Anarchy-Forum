@@ -33,7 +33,7 @@ export default function PostList() {
 
   return (
     <div className="h-full bg-gray-900 overflow-y-scroll overflow-x-hidden w-96 flex-shrink-0">
-      <Link to="/">
+      <Link to="/Anarchy-Forum">
         <button
           className="btn btn-blue w-full my-2 mx-0"
           onClick={handleRefresh}

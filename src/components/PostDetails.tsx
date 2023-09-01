@@ -62,7 +62,7 @@ export default function PostDetails() {
               </button>
               <Link
                 className="btn btn-blue mx-2 cursor-pointer"
-                to={`/post/${postId}/edit`}
+                to={`/Anarchy-Forum/post/${postId}/edit`}
               >
                 Edit
               </Link>

@@ -7,7 +7,7 @@ export default function PostButton() {
     <button
       className="btn btn-blue m-2"
       onClick={() => {
-        navigate("post/create");
+        navigate("/Anarchy-Forum/post/create");
       }}
     >
       Create a Post

@@ -25,7 +25,7 @@ export default function PostCreator() {
             <h1 className="text-2xl">Enter Post Details:</h1>
           </div>
           <div className="m-4">
-            <Link to="/">
+            <Link to="/Anarchy-Forum">
               <h1 className="text-2xl text-gray-500 hover:text-gray-300">
                 (Exit) X
               </h1>
@@ -60,7 +60,7 @@ export default function PostCreator() {
                 setContentText(event.target.value);
               }}
             ></textarea>
-            <Link to="/">
+            <Link to="/Anarchy-Forum">
               <input
                 type="submit"
                 value="Submit"

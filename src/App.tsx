@@ -19,10 +19,10 @@ function App() {
           <PostList />
           <div className="h-full flex-grow flex-shrink">
             <Routes>
-              <Route path="/" element={<NoPosts />} />
-              <Route path="/post/:postid" element={<PostDetails />} />
-              <Route path="/post/create" element={<PostCreator />} />
-              <Route path="/post/:postid/edit" element={<PostEdit />} />
+              <Route path="/Anarchy-Forum" element={<NoPosts />} />
+              <Route path="/Anarchy-Forum/post/:postid" element={<PostDetails />} />
+              <Route path="/Anarchy-Forum/post/create" element={<PostCreator />} />
+              <Route path="/Anarchy-Forum/post/:postid/edit" element={<PostEdit />} />
             </Routes>
           </div>
         </div>
