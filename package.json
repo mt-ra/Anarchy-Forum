@@ -2,7 +2,7 @@
   "name": "tailtest",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mt-ra.github.io/Anarchy_Forum",
+  "homepage": "https://github.com/mt-ra/Anarchy-Forum/",
   "type": "module",
   "scripts": {
     "dev": "vite",
