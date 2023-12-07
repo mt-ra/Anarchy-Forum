@@ -1,4 +1,5 @@
-# Anarchy-Forum
+# Anarchy-Forum (out of service because always data account got deleted)
+
 https://mt-ra.github.io/Anarchy-Forum/
 
 Frontend for a forum-like website written using React and TailwindCSS.
